@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Russell Goebel
 
-<!--
-**RussJGoebel/RussJGoebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD statistician based in Boston. I work on Bayesian spatial modeling 
+and scalable inference for remote sensing data, and have spent several 
+years doing applied statistical consulting across health, life sciences, 
+and other domains.
 
-Here are some ideas to get you started:
+### Links
+- 🌐 [russellgoebel.com](https://russellgoebel.com) — writing, portfolio, CV
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=bX0UfPYAAAAJ) — publications
+- 💼 [LinkedIn](https://linkedin.com/in/russellgoebel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Packages
+- [VisitorCounts](https://cran.r-project.org/package=VisitorCounts) — on CRAN
+- [fastblm](https://github.com/RussJGoebel/fastblm)
+- [spatintegrate](https://github.com/RussJGoebel/spatintegrate)
